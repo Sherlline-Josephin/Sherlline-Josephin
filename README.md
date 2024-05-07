@@ -13,7 +13,7 @@
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sherlline-josephin-xavier" target="blank"><img align="center" alt="guru--prasath" height="30" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /></a>
+<a href="https://linkedin.com/in/sherlline-josephin-xavier" target="blank"><img align="center" alt="sherlline-josephin-xavier" height="30" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /></a>
 <a href="https://instagram.com/_.sherlline_jose._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.sherlline_jose._" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sherllinejose_2403" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sherllinejose_2403" height="30" width="40" /></a>
 </p>
