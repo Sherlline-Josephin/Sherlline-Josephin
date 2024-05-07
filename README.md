@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sherlline Josephin</h1>
 <h3 align="center">An upcoming, enthusiastic learner who emphasizes proactivity.</h3>
 <br><br>
-<img align="right" alt="coding" width="400" src="[[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3EKZamAm4UXmKoLTj9cihJxsz5wxmUVP6c2IY8hfYXQ&s](https://images.static-collegedunia.com/public/image//f57c4d1979de06e49b1dd15d02ecd231.gif)](https://images.static-collegedunia.com/public/image//f57c4d1979de06e49b1dd15d02ecd231.gif)">
+<img align="right" alt="coding" width="400" src="https://images.static-collegedunia.com/public/image//f57c4d1979de06e49b1dd15d02ecd231.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sherlline-josephin&label=Profile%20views&color=0e75b6&style=flat" alt="sherlline-josephin" /> </p>
 
