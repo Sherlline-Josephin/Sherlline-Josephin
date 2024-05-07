@@ -3,7 +3,7 @@
 <br><br>
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3EKZamAm4UXmKoLTj9cihJxsz5wxmUVP6c2IY8hfYXQ&s">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sherlline-josephin&label=Profile%20views&color=0e75b6&style=flat" alt="sherlline-josephin" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=sherlline-josephin&label=Profile%20views&color=0e75b6&style=flat](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcollegedunia.com%2Fsocial%2F177-11-hacks-to-earn-money-when-you-feel-totally-broke-in-college&psig=AOvVaw3ZU_VHb3OX390DbGfupJIr&ust=1715138328169000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPDJkqvK-oUDFQAAAAAdAAAAABAb)" alt="sherlline-josephin" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sherlline-Josephin](https://github.com/Sherlline-Josephin)
 
