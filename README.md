@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sherlline-Josephin](https://github.com/Sherlline-Josephin)
 
-- 💬 Ask me about **C, C++, Python, React, MySQL**
+- 💬 Ask me about **C++, Python, React, MySQL**
 
 - 📫 How to reach me **sherllinejosephin@gmail.com**
 <br>
