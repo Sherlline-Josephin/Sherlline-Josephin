@@ -7,7 +7,7 @@
 <br><br>
 <img align="right" alt="coding" width="400" src="https://images.static-collegedunia.com/public/image//f57c4d1979de06e49b1dd15d02ecd231.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sherlline-josephin&label=Profile%20views&color=0e75b6&style=flat" alt="sherlline-josephin" /> </p>
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sherlline-Josephin](https://github.com/Sherlline-Josephin)
 
