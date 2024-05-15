@@ -33,6 +33,7 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img align="left" alt="MySQL" width="40px" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img align="left" alt="Git" width="40px" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /></a>
 <br><br>
+</p>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/sherllinejose_2403?!theme=dark&font=Mallanna&ext=heatmap)
 
