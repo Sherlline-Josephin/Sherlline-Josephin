@@ -35,4 +35,4 @@
 <br><br>
 </p>
 ![LeetCode Stats](https://leetcard.jacoblin.cool/sherllinejose_2403?!theme=dark&font=Mallanna&ext=heatmap)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sherlline-josephin&" alt="sherlline-josephin" /></p>
+
