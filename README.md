@@ -3,7 +3,7 @@
 
 
 
-<h3 align="center">An upcoming, enthusiastic learner who emphasizes proactivity | Final Year MSc Student in Software Systems | </h3>
+<h3 align="center">An upcoming enthusiastic learner who emphasizes proactivity | Final Year MSc Student in Software Systems | </h3>
 <br><br>
 <img align="right" alt="coding" width="400" src="https://images.static-collegedunia.com/public/image//f57c4d1979de06e49b1dd15d02ecd231.gif">
 
